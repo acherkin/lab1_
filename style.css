@@ -1,0 +1,20 @@
+header {
+    font-family: Futura, Trebuchet MS;
+    font-weight: bold condensed;
+    color: #AC2B37; 
+    font-size: 25px;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: black;
+    font-size: 12px;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    color:brown;
+    font-size: 18px;
+}
