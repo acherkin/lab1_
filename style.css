@@ -6,13 +6,7 @@ header {
     padding: 4px;
 }
 
-footer {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: bold condensed;
-    color: #AC2B37; 
-    font-size: 25px;
-    padding: 4px;
-}
+
 
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -67,5 +61,12 @@ h1{
         background-image: none;
         box-shadow: inset 0 3px 3px rgba(0, 0, 0, .2);
       }
+footer {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold condensed;
+    color: #AC2B37; 
+    font-size: 25px;
+    padding: 4px;
+}
       
     
